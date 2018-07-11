@@ -1,9 +1,15 @@
 Connected.
 
-38 rows deleted.
+Table INVOICELINE altered.
 
 
-7 rows deleted.
+Table INVOICELINE altered.
+
+
+Table INVOICE altered.
+
+
+Table INVOICE altered.
 
 
 1 row deleted.

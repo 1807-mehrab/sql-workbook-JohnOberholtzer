@@ -1,0 +1,13 @@
+conn chinook/p4ssw0rd
+
+DROP FUNCTION GET_TIME;
+
+CREATE FUNCTION GET_TIME
+RETURN SYSTIMESTAMP;
+
+BEGIN
+    DBMS_OUTPUT.get_line('GET_TIME');
+END;
+
+exit;
+
