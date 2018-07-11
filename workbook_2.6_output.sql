@@ -1,0 +1,27 @@
+Connected.
+
+ INVOICEID CUSTOMERID INVOICEDA BILLINGADDRESS                                                         BILLINGCITY                              BILLINGSTATE                             BILLINGCOUNTRY                           BILLINGPOS      TOTAL
+---------- ---------- --------- ---------------------------------------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------- ----------
+        88         57 13-JAN-10 Calle Lira, 198                                                        Santiago                                                                          Chile                                                    17.91
+        89          7 18-JAN-10 Rotenturmstraße 4, 1010 Innere Stadt                                  Vienne                                                                            Austria                                  1010            18.86
+        96         45 18-FEB-10 Erzsébet krt. 58.                                                     Budapest                                                                          Hungary                                  H-1073          21.86
+       103         24 21-MAR-10 162 E Superior Street                                                  Chicago                                  IL                                       USA                                      60611           15.86
+       299         26 05-AUG-12 2211 W Berry Street                                                    Fort Worth                               TX                                       USA                                      76110           23.86
+       306          5 05-SEP-12 Klanova 9/506                                                          Prague                                                                            Czech Republic                           14700           16.86
+       313         43 06-OCT-12 68, Rue Jouvence                                                       Dijon                                                                             France                                   21000           16.86
+       404          6 13-NOV-13 Rilská 3174/6                                                         Prague                                                                            Czech Republic                           14300           25.86
+       194         46 28-APR-11 3 Chatham Street                                                       Dublin                                   Dublin                                   Ireland                                                  21.86
+       201         25 29-MAY-11 319 N. Frances Street                                                  Madison                                  WI                                       USA                                      53703           18.86
+       208          4 29-JUN-11 Ullevålsveien 14                                                      Oslo                                                                              Norway                                   0171            15.86
+
+11 rows selected. 
+
+
+EMPLOYEEID LASTNAME             FIRSTNAME            TITLE                           REPORTSTO BIRTHDATE HIREDATE  ADDRESS                                                                CITY                                     STATE                                    COUNTRY                                  POSTALCODE PHONE                    FAX                      EMAIL                                                       
+---------- -------------------- -------------------- ------------------------------ ---------- --------- --------- ---------------------------------------------------------------------- ---------------------------------------- ---------------------------------------- ---------------------------------------- ---------- ------------------------ ------------------------ ------------------------------------------------------------
+         5 Johnson              Steve                Sales Support Agent                     2 03-MAR-65 17-OCT-03 7727B 41 Ave                                                           Calgary                                  AB                                       Canada                                   T3B 1Y7    1 (780) 836-9987         1 (780) 836-9543         steve@chinookcorp.com                                       
+         6 Mitchell             Michael              IT Manager                              1 01-JUL-73 17-OCT-03 5827 Bowness Road NW                                                   Calgary                                  AB                                       Canada                                   T3B 0C5    +1 (403) 246-9887        +1 (403) 246-9899        michael@chinookcorp.com                                     
+         7 King                 Robert               IT Staff                                6 29-MAY-70 02-JAN-04 590 Columbia Boulevard West                                            Lethbridge                               AB                                       Canada                                   T1K 5N8    +1 (403) 456-9986        +1 (403) 456-8485        robert@chinookcorp.com                                      
+
+
+Disconnected from Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production
