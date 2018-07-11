@@ -1,0 +1,6 @@
+conn chinook/p4ssw0rd
+
+SELECT * FROM INVOICE WHERE BILLINGADDRESS LIKE 'T%';
+
+exit;
+
