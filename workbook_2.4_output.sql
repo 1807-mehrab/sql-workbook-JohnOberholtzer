@@ -1,6 +1,6 @@
 Connected.
 
-0 rows updated.
+1 row updated.
 
 
 1 row updated.

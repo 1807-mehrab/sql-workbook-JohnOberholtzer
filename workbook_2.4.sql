@@ -1,8 +1,8 @@
 conn chinook/p4ssw0rd
 
 UPDATE CUSTOMER 
-SET LASTNAME = 'Mitchell' ,FIRSTNAME = 'Aaron' 
-WHERE LASTNAME = 'Walter' AND FIRSTNAME = 'Robert';
+SET LASTNAME = 'Walter' ,FIRSTNAME = 'Robert' 
+WHERE (LASTNAME = 'Mitchell' AND FIRSTNAME = 'Aaron');
 
 UPDATE ARTIST
 SET NAME = 'CCR'
