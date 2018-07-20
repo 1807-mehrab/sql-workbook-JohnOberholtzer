@@ -6,8 +6,8 @@ END;
 /
 
 DECLARE
-    NM VARCHAR(100);
-    CMP VARCHAR(100);
+    NM VARCHAR2(100);
+    CMP VARCHAR2(100);
 BEGIN
     GET_NM_CMP(5,NM,CMP);
     DBMS_OUTPUT.PUT_LINE('Name: '|| NM || ' Company: ' || CMP);
